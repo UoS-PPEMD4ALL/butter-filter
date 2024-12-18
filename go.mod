@@ -1,3 +1,3 @@
-module github.com/tom-wray/butter-filter
+module github.com/UoS-PPEMD4ALL/butter-filter
 
 go 1.22
