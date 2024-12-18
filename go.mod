@@ -1,3 +1,3 @@
-module github.com/jfcg/butter
+module github.com/tom-wray/butter-filter
 
 go 1.17
